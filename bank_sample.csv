@@ -1,0 +1,4 @@
+amount,date,description,newbalance,type
+-45.20,2025-06-08,Grocery Store,1475.20,debit
+-62.10,2025-06-09,Gas Station,1413.10,debit
+-63.10,2025-06-10,Pharmacy,1350.00,debit

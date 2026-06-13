@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Electricity",
+    "amount": 160.0,
+    "due_day": 17
+  },
+  {
+    "name": "Phone",
+    "amount": 221.0,
+    "due_day": 2
+  },
+  {
+    "name": "Internet",
+    "amount": 120.0,
+    "due_day": 20
+  },
+  {
+    "name": "Water",
+    "amount": 30.0,
+    "due_day": 10
+  },
+  {
+    "name": "GYM",
+    "amount": 20.0,
+    "due_day": 4
+  }
+]

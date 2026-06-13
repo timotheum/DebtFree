@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Discover Card",
+    "balance": 1487.99,
+    "apr": 0.2649,
+    "minimum": 50,
+    "due_day": 15
+  },
+  {
+    "name": "Credit One Card",
+    "balance": 2147.14,
+    "apr": 0.2749,
+    "minimum": 108.0,
+    "due_day": 1
+  },
+  {
+    "name": "Personal Loan",
+    "balance": 9564.53,
+    "apr": 0.1425,
+    "minimum": 369.28,
+    "due_day": 23
+  },
+  {
+    "name": "Mortgage",
+    "balance": 86806.34,
+    "apr": 0.1075,
+    "minimum": 1023.77,
+    "due_day": 5
+  },
+  {
+    "name": "Car loan",
+    "balance": 10307.3,
+    "apr": 0.1062,
+    "minimum": 401.71,
+    "due_day": 22
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "monthly_payment": 1883.82,
+  "buffer": 500.0,
+  "strategy": "avalanche",
+  "llm_model": "llama3.2",
+  "paycheck_amount": 2667.5,
+  "paycheck_anchor": "2025-06-06",
+  "paycheck_interval_days": 14,
+  "today": null,
+  "balance_source": "simplefin",
+  "simplefin_account_id": "ACT-cca7465b-b539-4732-a434-ffa181c4cc44",
+  "extra_payment": 500.0
+}
